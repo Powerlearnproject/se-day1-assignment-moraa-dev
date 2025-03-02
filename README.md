@@ -5,10 +5,13 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+Software Engineering is all about writing instructions called code for computers enabling the building of Apps, Games, Websites and Websystems that solve real world problems using technology.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+1. Machine code
+2. Assembly language
+3. 
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
